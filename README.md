@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product Management System — Final Project
 
 Full-stack project using **Django + Django REST Framework** for the backend and **React + Axios + Vite** for the frontend.
@@ -354,3 +355,6 @@ GET     /api/products/?search=value
 GET     /api/products/?category=beauty
 GET     /api/products/?brand=Essence
 ```
+=======
+# ProductManagement
+>>>>>>> 5048e24786d77f3017f4d8fb0bca18a828189792
