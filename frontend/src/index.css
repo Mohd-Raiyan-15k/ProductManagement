@@ -1,0 +1,15 @@
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,sans-serif;background:#f5f5f5;color:#222}
+.nav{display:flex;gap:20px;padding:16px 24px;background:#222}
+.nav a{color:white;text-decoration:none}
+.container{max-width:1100px;margin:auto;padding:24px}
+.filters{display:flex;gap:10px;margin-bottom:20px}
+.filters input{max-width:320px}
+input,textarea{width:100%;padding:10px;border:1px solid #ccc;border-radius:6px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
+.card{background:white;padding:18px;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.actions{display:flex;gap:8px;margin-top:15px}
+button,.button{border:0;padding:9px 14px;border-radius:6px;cursor:pointer;background:#222;color:white;text-decoration:none}
+.form{background:white;max-width:650px;padding:20px;border-radius:10px;display:grid;gap:12px}
+textarea{min-height:100px;resize:vertical}
+.error{color:#b00020}
