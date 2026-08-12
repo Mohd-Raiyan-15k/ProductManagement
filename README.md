@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Product Management System — Final Project
 
 Full-stack project using **Django + Django REST Framework** for the backend and **React + Axios + Vite** for the frontend.
