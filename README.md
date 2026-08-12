@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Product Management System — Final Project
 
 Full-stack project using **Django + Django REST Framework** for the backend and **React + Axios + Vite** for the frontend.
@@ -19,82 +19,6 @@ The API uses exactly these requested concepts:
 - brand
 
 ---
-
-# STEP 1 — Install prerequisites
-
-Install:
-
-- Python 3.10+
-- Node.js 18+
-- npm
-
-Check:
-
-```bash
-python --version
-node --version
-npm --version
-```
-
-Windows alternative:
-
-```bash
-py --version
-```
-
-# STEP 2 — Open backend
-
-```bash
-cd ProductManagement/backend
-```
-
-# STEP 3 — Create virtual environment
-
-Windows:
-
-```bash
-python -m venv env
-env\Scripts\activate
-```
-
-Mac/Linux:
-
-```bash
-python3 -m venv env
-source env/bin/activate
-```
-
-# STEP 4 — Install Python packages
-
-```bash
-pip install -r requirements.txt
-```
-
-# STEP 5 — Run migrations
-
-```bash
-python manage.py migrate
-```
-
-The product migration inserts three sample products.
-
-# STEP 6 — Start Django
-
-```bash
-python manage.py runserver
-```
-
-Backend:
-
-```text
-http://127.0.0.1:8000/
-```
-
-API:
-
-```text
-http://127.0.0.1:8000/api/products/
-```
 
 # STEP 7 — Product APIs
 
