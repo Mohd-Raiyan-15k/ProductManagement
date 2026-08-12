@@ -20,17 +20,6 @@ The API uses exactly these requested concepts:
 
 ---
 
-# STEP 7 — Product APIs
-
-| Method | URL | Purpose |
-|---|---|---|
-| GET | `/api/products/` | List |
-| POST | `/api/products/` | Create |
-| GET | `/api/products/1/` | Details |
-| PUT | `/api/products/1/` | Update |
-| PATCH | `/api/products/1/` | Partial update |
-| DELETE | `/api/products/1/` | Delete |
-
 Example POST:
 
 ```json
